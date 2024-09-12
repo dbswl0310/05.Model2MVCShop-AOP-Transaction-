@@ -15,6 +15,7 @@ public class Search {
 	//==> 참조
 	private int endRowNum;
 	private int startRowNum;
+	// search 주석주석 yunkim
 	
 	///Constructor
 	public Search() {
